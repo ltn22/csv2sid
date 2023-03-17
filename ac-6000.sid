@@ -1,0 +1,37 @@
+{
+  "assignment-ranges": [
+    {
+      "entry-point": 6000,
+      "size": 500
+    }
+  ],
+  "module-name": "ietf-schc-access-control",
+  "module-revision": "2023-02-14",
+  "items": [
+    {
+      "namespace": "module",
+      "identifier": "ietf-schc-access-control",
+      "sid": 6000,
+      "type" : {"0": "no-changes"}
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-schc:schc/ietf-schc-access-control:ac-modify-set-of-rules",
+      "sid": 6001,
+      "type" : {"0": "no-changes"}
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-schc:schc/rule/entry/ietf-schc-access-control:ac-modify-field",
+      "sid": 6002,
+      "type" : {"0": "no-changes"}
+    },
+    {
+      "namespace": "data",
+      "identifier": "/ietf-schc:schc/rule/ietf-schc-access-control:ac-modify-rule",
+      "sid": 6003,
+      "type" : {"0": "no-changes"}
+    }
+  ],
+  "key-mapping": {}
+}
